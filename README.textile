@@ -1,0 +1,17 @@
+h1. yab_view_fixed_article
+
+"Download":https://github.com/trenc/yab_view_fixed_article/releases
+
+This is a "Textpattern CMS":https://textpattern.com plugin.
+
+It »fixes« the »view« link in the article write tab for fixed (sticky) articles if they are used as section article.
+
+h2. Usage
+
+Install and activate the plugin.
+
+h2. Changelog
+
+h3. Version 0.1.0 - 2024-10-31
+
+* Initial release.

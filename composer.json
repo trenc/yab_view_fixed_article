@@ -1,0 +1,23 @@
+{
+    "name": "scto/yab_view_fixed_article",
+    "description": "View fixed articles from the article write panel.",
+    "keywords": ["textpattern", "plugin"],
+    "homepage": "https://github.com/trenc/yab_view_fixed_article",
+    "license": "GPL-2.0",
+    "type": "textpattern-plugin",
+    "authors": [
+        {
+            "name": "Tommy Schmucker",
+            "homepage": "https://tommyschmucker.de",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/trenc/yab_view_fixed_article/issues",
+        "source": "https://github.com/trenc/yab_view_fixed_article"
+    },
+    "require-dev": {
+        "scto/plugin-compiler": "^0.1.0",
+        "laravel/pint": "^1.18"
+    }
+}

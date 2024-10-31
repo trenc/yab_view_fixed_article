@@ -1,0 +1,8 @@
+.*
+!.editorconfig
+!.github
+!.gitignore
+/dist/
+/vendor/
+composer.lock
+.phpactor.json
